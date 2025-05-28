@@ -15,7 +15,7 @@ This data analysis project aims to generate insight into the sales performance o
 the primary source of Data used here is Data sale
 
 ### Tools Used
-- MS Excel for data cleaning [Download here[(https://www.microsoft.com)
+- MS Excel for data cleaning [Download here](https://www.microsoft.com)
     - For Data Collection
     - For Data Cleaning
       1. Data Manipulation
@@ -30,3 +30,8 @@ the primary source of Data used here is Data sale
   select A,B,C
   where A> 15
   ```
+  click drag and drop
+
+  **bold**
+  *italics*
+*
